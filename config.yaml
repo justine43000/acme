@@ -6,3 +6,7 @@ sylius_ui:
         sylius.shop.layout.footer.grid:
             blocks:
                 logo: 'shop/Layout/Footer/_plus.html.twig'
+        sylius.shop.layout.header:
+            blocks:
+                banner:
+                    enabled: false
