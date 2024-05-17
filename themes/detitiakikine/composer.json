@@ -1,0 +1,14 @@
+{
+    "name": "acme/detitiakikine",
+    "authors": [
+        {
+            "name": "detitiakikine",
+            "email": "detitiakikine@gmail.com"
+        }
+    ],
+    "extra": {
+        "sylius-theme": {
+            "title": "detitiakikine"
+        }
+    }
+}
