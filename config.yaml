@@ -1,0 +1,8 @@
+sylius_ui:
+    events:
+        sylius.shop.layout.header.grid:
+            blocks:
+                logo: 'shop/Layout/Header/_logo.html.twig'
+        sylius.shop.layout.footer.grid:
+            blocks:
+                logo: 'shop/Layout/Footer/_plus.html.twig'
