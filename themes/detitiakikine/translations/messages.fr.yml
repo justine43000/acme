@@ -54,3 +54,4 @@ sylius:
                 header: 'Votre compte'
                 order_history: 'Historique des commandes'
                 personal_information: 'Informations personnelles'
+    top_bar: ''
