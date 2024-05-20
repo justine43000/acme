@@ -1,9 +1,9 @@
 <div class="homepage-banner">
     <div class="homepage-banner__image">
         {% if use_webpack %}
-            <img src="{{ asset('build/shop/images/homepage-banner.jpg', 'shop') }}" alt="{{ 'sylius.homepage.banner_content'|trans }}">
+            <img src="{{ asset('build/shop/images/home-banner.webp', 'shop') }}" alt="{{ 'sylius.homepage.banner_content'|trans }}">
         {% else %}
-            <img src="{{ asset('assets/shop/img/homepage-banner.jpg') }}" alt="{{ 'sylius.homepage.banner_content'|trans }}">
+            <img src="{{ asset('assets/shop/img/home-banner.webp') }}" alt="{{ 'sylius.homepage.banner_content'|trans }}">
         {% endif %}
     </div>
     <div class="homepage-banner__content">
